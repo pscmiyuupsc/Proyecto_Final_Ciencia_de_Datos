@@ -30,7 +30,3 @@ Codigo fuente del proyecto
 Vacio debido a que no se realizaron pruebas
 
 
-
-
-/tests
-Vacio ya que no se realizaron pruebas 
