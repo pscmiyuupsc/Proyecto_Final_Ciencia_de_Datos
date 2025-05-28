@@ -6,7 +6,7 @@ El objetivo del presente trabajo es aplicar técnicas de ciencia de datos para g
 # Instrucciones de instalacion 
 Para poder trabajar con el Notebook es necesario descargar los archivos en la carpeta llamada data, acceder al url https://colab.research.google.com/drive/1xjOEUsa1KPezyp8OePxjzdd-VpQs6h9-?usp=sharing, dar clic en archivo y guardar una copia en Drive y subir los archivos de data.
 
-#Esructura del repositorio
+# Estructura del repositorio
 /data
 Contiene los archivos de afluencia y variables climatologicas del metrobus de febrero a mayo 2024, 18 de enero al 31 2025 y de febrero a abril 2025 de la linea 1 y 2
 Datos geograficos de las estaciones 
@@ -14,6 +14,10 @@ Datos geograficos de las estaciones
 /docs 
 Reporte del trabajo realizado
 
-/noteboo
+/notebook
+Contiene el notebook del proyecto
 
 /scr
+Codigo fuente del proyecto
+
+/
