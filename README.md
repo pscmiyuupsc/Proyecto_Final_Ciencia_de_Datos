@@ -14,6 +14,12 @@ Datos geograficos de las estaciones
 /docs 
 Reporte del trabajo realizado
 
+/images
+Contiene mayormente las graficas del EDA (como mapas de calor, grafico de lineas, diagrama de caja y bigotes, etc..)
+
+/maps
+Contiene los mapas interactivos de las lineas del metrobus, la afluencia de 2024(feb-may) y la afluencia predicha para 2025(feb-may)
+
 /notebook
 Contiene el notebook del proyecto
 
